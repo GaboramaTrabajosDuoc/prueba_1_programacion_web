@@ -1,0 +1,96 @@
+
+body{
+  background-color: #f3bd55;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+.imagen{
+  border: 4px outset black;
+}
+
+.button3 {
+  background-color: white;
+  color: black; 
+  border: 2px solid #008CBA;
+}
+  
+.button3:hover {
+  background-color: #a700ba;
+  color: white;
+}
+                
+.button4 {
+  background-color: rgb(255, 255, 255);
+  color: black; 
+  border: 2px solid #008CBA;
+  font-size: larger;
+}
+  
+.button4:hover {
+  background-color: #7243a7;
+  color: white;
+  font-size: xx-large;
+}
+
+#titulo{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.buttprod{
+  border: none;
+  color: white;
+  padding: 0px 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.buttprod1{
+  background-color: rgb(255, 255, 255);
+  color: black; 
+  border: 2px solid #008CBA;
+  font-size: larger;  
+}
+
+.bottprod1:hover{
+  color: white;
+  background-color: #a700ba;
+}
